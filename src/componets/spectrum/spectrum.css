@@ -1,0 +1,23 @@
+.spectrum {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+
+.bar {
+    width: 100%;
+    height: 20%;
+    background-color: #DC3545;
+    border: #DC3545;
+    margin-top: 2rem;
+    border-radius: 0;
+}
+.bar:hover {
+    color: #DC3545;
+    background-color: white;
+    border: #DC3545;
+}
+
+.arrowBar {
+    font-weight: 500;
+}

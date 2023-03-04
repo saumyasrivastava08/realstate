@@ -1,0 +1,26 @@
+.footer {
+  background-color: #090909;
+}
+
+.footerImage {
+  width: 10rem;
+}
+
+.descText {
+  margin-top: 1rem;
+  letter-spacing: 0.18px;
+  color: #ffffff;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+.headerR {
+    letter-spacing: 0.18px;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 20px;
+    
+}
+.footerBlog {
+    width: 100%;
+}

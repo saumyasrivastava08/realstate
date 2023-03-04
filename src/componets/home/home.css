@@ -1,0 +1,45 @@
+.home {
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+}
+
+.below{
+    color: #DC3545;
+}
+
+.number {
+    margin-top: 2rem;
+    font-weight: 500;
+}
+.mainImage {
+    position: relative;
+  display: inline;
+}
+.imtip {
+    bottom: 0;
+    right: 0;
+   width: 100%;
+   margin-left: 10rem;
+   margin-top: -3rem;
+   background-color: aliceblue;
+  }
+.main {
+    width: 130%;
+}
+.arrow {
+    background-color: antiquewhite;
+    border: wheat;
+    border-radius: 0;
+}
+
+.arrowRight {
+    background-color: #DC3545;
+    color: black;
+    border: #DC3545;
+    border-radius: 0;
+}
+
+.arrowRight:hover{
+    color: #DC3545;
+    background-color: white;
+}

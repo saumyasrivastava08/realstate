@@ -1,0 +1,22 @@
+.logo {
+  margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-left: 10px;
+  transition: opacity 0.2s ease 0.5s;
+}
+
+.heading {
+  justify-content: center;
+  font-family: normal normal normal 16px/19px Montserrat !important;
+}
+
+.icons {
+  margin-left: 10rem;
+  padding: 1rem;
+}
+
+.icon {
+  padding: 1rem;
+}

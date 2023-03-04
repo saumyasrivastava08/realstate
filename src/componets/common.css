@@ -1,0 +1,21 @@
+.headingText {
+  letter-spacing: 1px;
+  color: #dc3545;
+  text-transform: uppercase;
+  opacity: 1;
+  margin-top: 2rem;
+}
+.headingDetails {
+  margin-top: 1rem;
+  color: black;
+  letter-spacing: 1.8px;
+}
+
+.headingDesc {
+  margin-top: 2rem;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-weight: 200;
+  font-size: 12px;
+}

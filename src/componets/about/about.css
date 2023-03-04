@@ -1,0 +1,29 @@
+.exploreBtn {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 0;
+  background-color: #DC3545;
+  margin-top: 2rem;
+  border-color: #DC3545;
+  margin-bottom: 2rem;
+}
+
+.exploreBtn:hover {
+    background-color: white;
+    color: #DC3545;
+    border-color: #DC3545;
+}
+
+#aboutUs {
+  margin-top: 2rem;
+  
+}
+
+.about {
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+.pool {
+  margin-top: 1rem;
+  width: 80%;
+}

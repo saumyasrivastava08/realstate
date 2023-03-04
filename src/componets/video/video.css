@@ -1,0 +1,25 @@
+.article{
+    margin-bottom: 2rem;
+    height: 20rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-blend-mode: darken;
+   
+    
+}
+.round {
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    border-color: #DC3545;
+    color: #DC3545;
+    font-size: 1rem;
+}
+.header {
+  
+    color: #FFFFFF;
+    opacity: 1;
+    letter-spacing: 0.9px;
+}
