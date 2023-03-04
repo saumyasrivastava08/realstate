@@ -1,22 +1,45 @@
 .testImage {
     width: 40%;
     margin-top: 2rem;
+    cursor: pointer;
 }
 .testImage1 {
     width: 40%;
     margin-top: 4rem;
+    cursor: pointer;
+
 }
 .testImage3 {
     width: 60%;
     margin-top: 1rem;
     margin-left: -5rem;
+    cursor: pointer;
+
 }
 .testImage4 {
     width: 60%;
     margin-top: 3rem;
+    cursor: pointer;
+
     margin-left: -2rem;
 }
 .testImage5 {
     width: 60%;
     margin-top: 4rem;
+    
+}
+.testDesi {
+    color: #FFFF;
+    justify-content: center;
+    text-align: center;
+}
+.testName{
+    color: #FFFF;
+    font-weight: 500;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    background-color: #DC3545;
 }

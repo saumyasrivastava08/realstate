@@ -12,6 +12,8 @@ import "./home.css";
 import { SidePart } from "../sidepart";
 
 const Home = () => {
+
+  // Details about number of clients ward winning saving them in array so that we can map them to show as they are displayed same way
   const details = [
     ["2000+", "200+"],
     ["Exclusive Product", "Award Winning"],

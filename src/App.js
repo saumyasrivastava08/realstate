@@ -1,4 +1,4 @@
-import "./App.css"
+import "./App.css";
 import About from "./componets/about/about";
 import Footer from "./componets/footer/footer";
 import Home from "./componets/home/home";
@@ -9,28 +9,24 @@ import Testimonial from "./componets/testimonial/testimonial";
 import Video from "./componets/video/video";
 function App() {
   return (
-  
-     <>
+    <>
+      {/* Adding Navigation Bar Component */}
+      <Navba />
+      {/* Adding HomePage */}
+      <Home />
+      {/* Adding About Component */}
+      <About />
+      {/* Adding Spectrum section */}
+      <Spectrum />
+      {/* Adding LatestNews section */}
+      <LatestNews />
+      <Video />
+      {/* Adding Testimonial Section */}
+      <Testimonial />
+      {/* Adding Footer Section */}
 
-     {/* Adding Navigation Bar Component */}
-     <Navba />  
-     {/* Adding HomePage */}
-     <Home />
-     {/* Adding About Component */}
-     <About />
-       {/* Adding Spectrum section */}
-       <Spectrum />
-     {/* Adding LatestNews section */}
-     <LatestNews />
-     <Video />
-     {/* Adding Testimonial Section */}
-     <Testimonial />
-     {/* Adding Footer Section */}
-
-    
-     <Footer />
-   
-     </>
+      <Footer />
+    </>
   );
 }
 

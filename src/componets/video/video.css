@@ -10,6 +10,9 @@
    
     
 }
+.sideVal {
+    font-size: 2px;
+}
 .round {
     border-radius: 50px;
     background-color: #FFFFFF;
@@ -19,7 +22,15 @@
 }
 .header {
   
-    color: #FFFFFF;
+    color: #FFFFFF; 
     opacity: 1;
     letter-spacing: 0.9px;
+}
+
+.headingTextV {
+    letter-spacing: 1px;
+  text-transform: uppercase;
+  opacity: 1;
+  font-weight: 700;
+  margin-top: 2rem;
 }

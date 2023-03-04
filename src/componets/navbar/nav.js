@@ -19,6 +19,7 @@ const Navba = () => {
     <div className="nav">
       <Row>
         <Col md={{ span: 1, offset: 1 }}>
+          {/* Making Navbar Logo */}
           <Navbar.Brand href="#home">
             <img
               variant="logo"
@@ -31,6 +32,7 @@ const Navba = () => {
         <Col md={{ span: 3, offset: 3 }}>
           <Navbar>
             <Container>
+              {/* Navbar Items */}
               <Nav className="heading">
                 <Nav.Link href="#">Home</Nav.Link>
                 <Nav.Link href="#aboutUs">About</Nav.Link>
